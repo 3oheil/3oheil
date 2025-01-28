@@ -1,8 +1,9 @@
-<h1 align="left">Hey 👋 i`m Soheil Imani<br>Backend Developer</h1>
+<h1 align="left">👋🧑🏽‍💻 i`m Soheil Imani</h1>
+
 
 ###
 
-<h2 align="left">a dedicated Back-End Developer with expertise in .NET Core, C#, and SQL Server. I’m passionate about solving complex challenges and building efficient, scalable applications. Experienced in using Docker for containerization and Git for version control, I strive for clean, maintainable code. I follow SOLID principles to ensure quality and readability in my projects. Constantly learning and growing, I’m always on the lookout for opportunities to contribute and innovate.<br><br>🎲 I always try to improve my knowledge and my death will be when I stop learning.</h2>
+<h2 align="left">a dedicated Back-End Developer with expertise in .NET Core, C#, and SQL Server. I’m passionate about solving complex challenges and building efficient, scalable applications. Experienced in using Docker for containerization and Git for version control, I strive for clean, maintainable code. I follow SOLID principles to ensure quality and readability in my projects. Constantly learning and growing, I’m always on the lookout for opportunities to contribute and innovate.<br><br>🎲 I always try to improve my knowledge and my death will be when I stop learning💪🏽.</h2>
 
 ###
 
