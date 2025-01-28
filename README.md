@@ -6,11 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ I started programming with interest and under the guidance of Professor Mehdi Abbasi,<br>I got a basic understanding of this fascinating world and now I am increasing my knowledge and <br>science in Daneshkar Bootcamp.<br><br>🎲 I always try to improve my knowledge and my death will be when I stop learning.</p>
+<h2 align="left">✨ I started programming with interest and under the guidance of Professor Mehdi Abbasi,<br>I got a basic understanding of this fascinating world and now I am increasing my knowledge and <br>science in Daneshkar Bootcamp.<br><br>🎲 I always try to improve my knowledge and my death will be when I stop learning.</h2>
 
 ###
 
