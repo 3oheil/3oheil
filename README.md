@@ -9,9 +9,9 @@ I follow SOLID principles to ensure quality and readability in my projects. Cons
 I’m always on the lookout for opportunities to contribute and innovate.<br><br>🎲<br/>
 I always try to improve my knowledge and my death will be when I stop learning💪🏽 </p>
 </div>
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhlbjBmcTNoY2s0MDVyZ2JkZjBjN2dmeGhiOTJsM3FsYmt6N3p5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
-
+<div>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhlbjBmcTNoY2s0MDVyZ2JkZjBjN2dmeGhiOTJsM3FsYmt6N3p5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
+</div>
 </div>
 
 
