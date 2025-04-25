@@ -1,18 +1,24 @@
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-<h1 align="left">👋🧑🏽‍💻 i`m Soheil Imani</h1>
+<table>
+  <tr>
+    <td>
 
-<div style="flex: 1;">
-<p> a dedicated Back-End Developer with expertise in .NET Core, C#, and SQL Server.<br/>
-I’m passionate about solving complex challenges and building efficient, scalable applications.<br/>
-Experienced in using Docker for containerization and Git for version control, I strive for clean, maintainable code.<br/>
-I follow SOLID principles to ensure quality and readability in my projects. Constantly learning and growing,<br/>
-I’m always on the lookout for opportunities to contribute and innovate.<br><br>🎲<br/>
-I always try to improve my knowledge and my death will be when I stop learning💪🏽 </p>
-</div>
-<div>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhlbjBmcTNoY2s0MDVyZ2JkZjBjN2dmeGhiOTJsM3FsYmt6N3p5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
-</div>
-</div>
+<h1>👋🏻 💻 i`m Soheil Imani</h1>
+<p>
+a dedicated Back-End Developer with expertise in .NET Core, C#, and SQL Server.<br>
+I’m passionate about solving complex challenges and building efficient, scalable applications.<br>
+Experienced in using Docker for containerization and Git for version control, I strive for clean, maintainable code.<br>
+I follow SOLID principles to ensure quality and readability in my projects. Constantly learning and growing,<br>
+I’m always on the lookout for opportunities to contribute and innovate.<br><br>
+🎲 I always try to improve my knowledge and my death will be when I stop learning 💪🏽
+</p>
+
+  </td>
+  <td>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhlbjBmcTNoY2s0MDVyZ2JkZjBjN2dmeGhiOTJsM3FsYmt6N3p5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px"/>
+  </td>
+  </tr>
+</table>
+
 
 
 
