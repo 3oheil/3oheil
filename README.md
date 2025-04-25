@@ -3,7 +3,8 @@
 
 ###
 
-![funny gif]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhlbjBmcTNoY2s0MDVyZ2JkZjBjN2dmeGhiOTJsM3FsYmt6N3p5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif))
+
+![funny gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhlbjBmcTNoY2s0MDVyZ2JkZjBjN2dmeGhiOTJsM3FsYmt6N3p5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 
 <h2 align="left">a dedicated Back-End Developer with expertise in .NET Core, C#, and SQL Server. I’m passionate about solving complex challenges and building efficient, scalable applications. Experienced in using Docker for containerization and Git for version control, I strive for clean, maintainable code. I follow SOLID principles to ensure quality and readability in my projects. Constantly learning and growing, I’m always on the lookout for opportunities to contribute and innovate.<br><br>🎲 I always try to improve my knowledge and my death will be when I stop learning💪🏽.</h2>
